@@ -5,12 +5,3 @@ type Users struct {
 	Email    string
 	Password string
 }
-
-type Handler interface {
-}
-
-type Query interface {
-}
-
-type Service interface {
-}
